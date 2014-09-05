@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  "nomaltest <h1> branch:master </h1>"
+  "Nomal TEST  <h1> branch:master </h1> 表示はいかが"
 end
