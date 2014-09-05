@@ -1,4 +1,3 @@
-# A sample Gemfile
-source "https://rubygems.org"
-
-# gem "rails"
+source "http://rubygems.org"
+ruby "1.9.3"
+gem "sinatra"
