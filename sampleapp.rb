@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  "nomaltest <h1> branch:master </h1>"
+  File.read(File.join('public', 'index.html'))
 end
